@@ -1,16 +1,22 @@
-## Hi there 👋
+Hello, I'm Edd]! 👋
 
-<!--
-**Edson988/Edson988** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about empowering founders and supporting the growth of decentralized technologies. With a focus on blockchain ecosystems, I work to build sustainable grant programs and help innovative projects thrive.
 
-Here are some ideas to get you started:
+ 👨‍💼 What I Do
+- Help blockchain projects grow through structured grant programs
+- Build resources to support developers and founders
+- Engage with global communities to foster collaboration
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 🌱 Ongoing Projects
+- Designing grant programs to fund early-stage blockchain projects
+- Collaborating with ecosystems to support developers in decentralized networks
+- Organizing events like Demo Days to showcase innovative blockchain projects
+
+ 🤝 Let's Connect
+I'm always open to discussing new ideas, collaborations, or just talking about the future of blockchain and decentralized systems. Feel free to reach out!
+
+- https://www.linkedin.com/in/edson-kipkirui-60a521160/
+- TG:@Bitchain2019
+
+Thanks for stopping by!
+
